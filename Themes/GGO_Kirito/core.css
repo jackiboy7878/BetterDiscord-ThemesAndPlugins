@@ -33,7 +33,8 @@
 
 /* removing backgrounds */
 .container-2lgZY8, .channels-Ie2l6A, .da-app .layer-3QrUeG, .da-app .layers-3iHuyZ, .da-app .chat-3bRxxu, .da-app .channelTextArea-rNsIhG, .da-app .content-yTz4x3, .da-app .messagesWrapper-3lZDfY, .da-app .chat-3bRxxu form, .da-app .members-1998pB, .da-app .headerBar-UHpsPw, .da-app .standardSidebarView-3F1I7i, .da-app .typing-2GQL18 {
-	background: transparent;
+	background:transparent;
+	background-image: var(--transparency-1);
 }
 /* Guild and Top bar transparency */
 .theme-dark .wrapper_fea3ef {
