@@ -10,7 +10,7 @@
     --secondary2-colour: rgba(10, 201, 128, 0.5);
     --secondary3-colour: rgba(15, 196, 148, 0.5);
 
-    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0));
     --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
     --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
     --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
